@@ -1,2 +1,4 @@
 # Calculator-by-advait
-my first project👍
+This is my first JS project
+I am just 13 years old.
+It isn't much but a simple calculator!
